@@ -1,4 +1,7 @@
-aiogram==3.22.0
+aiogram==3.17.0
 fastapi==0.115.12
-uvicorn[standard]==0.34.0
+uvicorn==0.34.0
+pydantic==2.10.6
+pydantic-core==2.27.2
 Pillow==11.1.0
+requests==2.32.3
